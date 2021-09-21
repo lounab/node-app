@@ -1,11 +1,11 @@
 const express = require('express')
 const app = express()
-const port = 8080
+const port = 3000
 
-app.get('/', (res, req) => {
-    res.send("Hello world")
+app.get('/', (req, res) => {
+    res.send('Hello World!')
 })
 
 app.listen(port, () => {
-    console.log(`App is listening at http://localhost:${port}`)
+    console.log(`Example app listening at http://localhost:${port}`)
 })
