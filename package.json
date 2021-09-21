@@ -19,7 +19,14 @@
   },
   "homepage": "https://github.com/Bakabruh/node-app#readme",
   "dependencies": {
+
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+=======
     "express": "^4.17.1",
     "fastify": "^3.21.3"
+
   }
 }
