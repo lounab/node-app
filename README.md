@@ -1,5 +1,7 @@
 # Node app (A3 Alt2 Intro Git)
 
+![Image d'un MacBook et de code](https://images.pexels.com/photos/34600/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 Ceci est notre projet pour nos cours d'_Harmonisation du code et test_.
 
 ## Pour commencer
